@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared S (BigxMac)</title>
+    <description>{&quot;A blog about a programmer&quot;=&gt;nil}</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Jun 2015 12:46:33 -0400</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2015 12:46:33 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      
+      <item>
+        <title>Welcome to My Blog!</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;The goal of this blog is to &lt;/p&gt;
+
+&lt;p&gt;share my experiences and thoughts about programming. Some blog posts may blur into productivity or tips I come across. No matter the topic, I promise to keep it interesting and relevant. At the start of this blog you can expect many rapid posts as I have a lot of thoughts brewing being that Google I/O and WWDC, two major developer events, just recently took place. Posts will most likely thin out though over time. Needless to say, bookmark this page and stop by once a week! &lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;The goal of this blog is to &lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/blog/Welcome/</link>
+        <guid isPermaLink="true">/blog/Welcome/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
