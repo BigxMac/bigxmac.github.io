@@ -5,9 +5,48 @@
     <description>{&quot;A blog about a programmer&quot;=&gt;nil}</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jun 2015 12:46:33 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2015 12:46:33 -0400</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2015 04:56:05 -0400</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2015 04:56:05 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      
+      <item>
+        <title>My Thoughts On WWDC</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;As you may (or may not) know, WWDC was on the 10th and introduced many new interesting things for both developers and users. I don&#39;t go super in depth on Swift 2.0 and all the new developer stuff, because that will be covered in my next blog post.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://www.apple.com/osx/elcapitan-preview/&quot;&gt;OS X&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h4&gt;End User Features&lt;/h4&gt;
+
+&lt;p&gt;The next version of OS X &amp;#39;El Capitan&amp;#39; was announced at WWDC. The release is to focus on performance and experience. The OS features a new split view mode which allows you to run two apps side-by-side in full screen. I feel like this will be useful on MacBooks in particular and can defiantly see myself using the feature. The OS is a lot snappier with speed improvements across the board. There are a lot of small features and it seems like Apple is trying to fix some of the many flaws OS X Yosemite had. The design is basically unchanged which disappoints me. I wasn&amp;#39;t a fan of OS X Yosemite&amp;#39;s new design completely and was hoping that Apple would fix most of it. Looks like it&amp;#39;s here to stay.&lt;/p&gt;
+
+&lt;h4&gt;Power User/Dev features&lt;/h4&gt;
+
+&lt;p&gt;In order to make the system a lot faster Apple had to make some under the hood changes. Apple is bringing Metal, it&amp;#39;s openGL/openCL like replacement to the Mac. Announced last year for iOS, Metal reduces the overhead between the hardware and software allowing for dramatic performance improvements. Core Animation and Core Graphics are now going to run on top of this. Graphics performance is especially important on Macs because most of them have integrated GPU&amp;#39;s and many pro creative customers create on the Mac. Many Mac users are reporting increased VRAM under the &amp;#39;About My Mac&amp;#39; menu. There is a new rootless option in the boot arguments by default which removes the ability to use the terminal as root. This may be a sound security measurement for the average user, but for developers and pro users this is horrible. You can currently change it using a command, but it is a pain. I believe in the final release you will have to boot into recovery mode and then change the setting under some advanced options. Like I said above the design is mostly unchanged except for the addition of a new default system font, San Fransisco. This font originally debuted in the Apple Watch as &amp;#39;San Fransisco Condensed&amp;#39;. The goal is to improve legibility, an area Helvetica Neue wasn&amp;#39;t particularly well at on non-retina displays. I am not a Mac Developer so I can&amp;#39;t go as in depth with advanced features as I can with iOS. A public beta will be available in July.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://www.apple.com/ios/ios9-preview/&quot;&gt;iOS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Apple announced a lot in terms of iOS, but I&amp;#39;ll be brief. The iPad now has a new split window mode, the app switcher looks different, and there is a new News app. The news app is basically an attempt to sherlock Flipboard. I have not used it yet however, so I can&amp;#39;t comment on how well it does. Siri is better and spotlight is now more intelligent. No single feature is mind blowing, but the small changes and subtle optimizations will improve the way you use your iOS device for sure. (The system font is San Fransisco here as well) Did I mention that they finally fixed the keyboard? A public beta (which I have signed up for) will be available in July.&lt;/p&gt;
+
+&lt;h4&gt;Apple Watch (watchOS 2.0)&lt;/h4&gt;
+
+&lt;p&gt;Developers can now develop native apps for the Apple Watch. This should allow for better access to watch features and speed improvements. Developers can also develop &amp;#39;complications&amp;#39;, which are custom modules for the modular watch faces. You can play with the new Watch Kit API by downloading the latest Xcode 7 beta.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;https://itun.es/us/k5SW7.l&quot;&gt;Swift (My Favorite Programming Language)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is my favorite part. Swift 2.0 was announced at WWDC. It adds a lot of new language features as well as speed/error message improvements. New features, better error messages, and more speed; what can be better than that? How about it being OPEN SOURCE! (insert the sound of my mind being blown) By the end of the year Swift 2 will be made available open source. It will run on OS X and Linux. Being that it is open source, I&amp;#39;m sure that someone will port the compiler over to Windows eventually. The new language features include an error handling model, the new guard statement, and syntax improvements.&lt;b&gt; There is so much new in Swift 2.0 that I plan on making a separate blog post just for it.&lt;/b&gt; If you are curious you can download &lt;a href=&quot;https://itun.es/us/k5SW7.l&quot;&gt;the Swift Programming Language Book on iBooks&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;As you may (or may not) know, WWDC was on the 10th and introduced many new interesting things for both developers and users. I don&#39;t go super in depth on Swift 2.0 and all the new developer stuff, because that will be covered in my next blog post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 16 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/blog/WWDC/</link>
+        <guid isPermaLink="true">/blog/WWDC/</guid>
+        
+        
+      </item>
+      
     
       
       <item>
