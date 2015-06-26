@@ -2,6 +2,7 @@
 layout: post
 title:  "Diversity In Tech"
 date:   2015-06-26
+comments: true
 ---
 
 <p class="intro">In tech these days a big focus has been on diversity.</p>

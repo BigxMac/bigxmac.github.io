@@ -5,9 +5,34 @@
     <description>{&quot;A blog about a programmer&quot;=&gt;nil}</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jun 2015 04:56:05 -0400</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2015 04:56:05 -0400</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 14:33:08 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 14:33:08 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      
+      <item>
+        <title>Diversity In Tech</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;In tech these days a big focus has been on diversity.&lt;/p&gt;
+
+&lt;p&gt;If your company doesn&amp;#39;t have enough women, or african-americans working there than shame on you. There are many programs and grants to try and get women and african-americans into tech. Why? People say that these companies are discriminatory because they are consisted of dominatly white males. To make sure I looked up the definition and this is what I found.&lt;/p&gt;
+
+&lt;h3&gt;Discrimination&lt;/h3&gt;
+
+&lt;h4&gt;Treatment or consideration based on class or category rather than individual merit; partiality or prejudice&lt;/h4&gt;
+
+&lt;p&gt;If companies were hiring the majority of white males because they were white males than that would be discrimination. However, if they hired 10 of the best qualified workers that HAPPEN to be white males then that is not. I am tired of programs for women in tech. It discriminates against men. Are they choosing people for say a grant based on whether they are the most eager to learn or have the most challenges to overcome; or is it because they are women? (I don&amp;#39;t mean to pick on women. Any other group would suffice) They are choosing the individual because they are the category of the female sex. Read the definition above. You are looking at discrimination. If I started a company and were hiring 10 people then at the end of the day I would have 10 of the most qualified people. Not 10 women, men, african-americans, asians or otherwise. I would have 10 people. That is how I look at it.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;In tech these days a big focus has been on diversity.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 26 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/blog/DiversityInTech/</link>
+        <guid isPermaLink="true">/blog/DiversityInTech/</guid>
+        
+        
+      </item>
+      
     
       
       <item>
@@ -53,7 +78,7 @@
         <title>Welcome to My Blog!</title>
         <description>&lt;p class=&quot;intro&quot;&gt;The goal of this blog is to &lt;/p&gt;
 
-&lt;p&gt;share my experiences and thoughts about programming. Some blog posts may blur into productivity or tips I come across. No matter the topic, I promise to keep it interesting and relevant. At the start of this blog you can expect many rapid posts as I have a lot of thoughts brewing being that Google I/O and WWDC, two major developer events, just recently took place. Posts will most likely thin out though over time. Needless to say, bookmark this page and stop by once a week! &lt;/p&gt;
+&lt;p&gt;share my experiences and thoughts about programming. Some blog posts may blur into productivity or tips I come across. No matter the topic, I promise to keep it interesting and relevant. At the start of this blog you can expect many rapid posts as I have a lot of thoughts brewing being that Google I/O and WWDC, two major developer events, just recently took place. Posts will most likely thin out though over time. Needless to say, bookmark this page and stop by once a week!&lt;/p&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;The goal of this blog is to &lt;/p&gt;

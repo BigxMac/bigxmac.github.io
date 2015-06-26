@@ -2,6 +2,7 @@
 layout: post
 title:  "My Thoughts On WWDC"
 date:   2015-06-16
+comments: true
 ---
 
 <p class="intro">As you may (or may not) know, WWDC was on the 10th and introduced many new interesting things for both developers and users. I don't go super in depth on Swift 2.0 and all the new developer stuff, because that will be covered in my next blog post.</p>
