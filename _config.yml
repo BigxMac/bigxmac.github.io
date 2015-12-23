@@ -1,4 +1,4 @@
-title: Jared S (BigxMac)
+title: jaredStef Blog
 description: {A blog about a programmer}
 
 url:
@@ -17,5 +17,5 @@ navigation:
    url: /about.html
 
 social:
-   github: BigxMac
+   github: jaredStef
    twitter: JaredStef
