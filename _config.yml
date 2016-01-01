@@ -19,3 +19,5 @@ navigation:
 social:
    github: jaredStef
    twitter: JaredStef
+
+gems: [jekyll-paginate]

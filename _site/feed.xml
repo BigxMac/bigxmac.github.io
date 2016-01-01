@@ -1,13 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jared S (BigxMac)</title>
+    <title>jaredStef Blog</title>
     <description>{&quot;A blog about a programmer&quot;=&gt;nil}</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jul 2015 23:55:12 -0400</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2015 23:55:12 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 31 Dec 2015 23:22:44 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 23:22:44 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      
+      <item>
+        <title>San Francisco Type</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;Typographically speaking 2015 was huge for Apple. The first type it has made in over 20 years, known as San Francisco (and San Francisco Compact for those checking), was finally shipped to the public found first in the Apple Watch, and later in OSX 10.11 El Capitan, iOS 9, tvOS, and the new keyboards introduced in 2015. Most end-users wont notice the difference, but a typography geek like me completely does.&lt;/p&gt;
+
+&lt;p&gt;San Francisco is a neo-grotesque san-serif type fitting in the same category as the previously used Helvetica Neue. Incase you don&amp;#39;t work at a type foundry or aren&amp;#39;t a typography geek like me let me let me break it down for you. Sans serif fonts are fonts which do not contain serifs. A serif is a line finishing the strokes of a letter. In layman terms they are the little lines that overlap the tips of the letters. Neo-grotesque is a modern design style of type which has evolved from the grotesque style. Again in layman terms just a modern style of type. Apple created the font to address concern and complains made about the readability of Helvetica Neue at small sizes or on non-retina displays (used with OS X).&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;San Francisco Type&quot; src=&quot;/assets/img/SF_Reg.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;With readability being the clear goal in mind during the creation of San Francisco the subtile curves of Helvetica in glyphs such as &amp;#39;G&amp;#39;, &amp;#39;a&amp;#39;, &amp;#39;1&amp;#39;, and &amp;#39;7&amp;#39; have been replaced with straight lines. It is a bit blockier as well especially in it&amp;#39;s compact form (Keeping in mind that it it&amp;#39;s purpose is for displays and not print). To describe it in a sentence it is a cross between &amp;quot;Univers&amp;quot; and &amp;quot;Helvetica Neue&amp;quot; optimized for readability. While I still prefer Helvetica Neue the readability at small sizes or on low ppi displays is better. Unfortunately to get there Apple did make a tradeoff. Was it worth it? I believe so.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt = &quot;Helvetica Neue Type&quot; src=&quot;/assets/img/HN_Reg.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Early in Apple&amp;#39;s history it was at the forefront of digital typography, but in recent years it has slipped with other companies such as Google, and Mozilla creating their own type. It is nice to see Apple creating type once again, and I look foreward to the possibility of them creating more in the future.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;Typographically speaking 2015 was huge for Apple. The first type it has made in over 20 years, known as San Francisco (and San Francisco Compact for those checking), was finally shipped to the public found first in the Apple Watch, and later in OSX 10.11 El Capitan, iOS 9, tvOS, and the new keyboards introduced in 2015. Most end-users wont notice the difference, but a typography geek like me completely does.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
+        <link>/blog/SanFranciscoVHelvetica/</link>
+        <guid isPermaLink="true">/blog/SanFranciscoVHelvetica/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>The Ultimate Linux Distro #2</title>
+        <description>&lt;h3&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In my last post I spoke about my quest to find the ultimate Linux distro. It seemed that my biggest concern for the distro is the desktop environment, so I tried 4 different desktops since then all running on the latest version of Ubuntu (except Bungie). All desktops where tested in their latest versions at the time.&lt;/p&gt;
+
+&lt;h3&gt;Gnome&lt;/h3&gt;
+
+&lt;h3&gt;KDE&lt;/h3&gt;
+
+&lt;h3&gt;Xubuntu&lt;/h3&gt;
+
+&lt;p&gt;Xubuntu is a&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+
+&lt;h3&gt;Do Bungie in final one&lt;/h3&gt;
+</description>
+        
+          <description>&lt;h3&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In my last post I spoke about my quest to find the ultimate Linux distro. It seemed that my biggest concern for the distro is the desktop environment, so I tried 4 different desktops since then all running on the latest version of Ubuntu (except Bungie). All desktops where tested in their latest versions at the time.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 11 Dec 2015 00:00:00 -0500</pubDate>
+        <link>/blog/UltimateLinuxDistro2/</link>
+        <guid isPermaLink="true">/blog/UltimateLinuxDistro2/</guid>
+        
+        
+      </item>
+      
     
       
       <item>
@@ -16,11 +76,11 @@
 
 &lt;h3&gt;Prologue&lt;/h3&gt;
 
-&lt;p&gt;Before getting a Mac and switching to OS X in Auguest of 2014, I used Linux; Ubuntu (Unity) to be more precise. It was better than Windows and a *nix OS. I like the ideologies of Linux and what it stands for, but just can&amp;#39;t find myself to use it.&lt;/p&gt;
+&lt;p&gt;Before getting a Mac and switching to OS X in August of 2014, I used Linux; Ubuntu (Unity) to be more precise. It was better than Windows and a *nix OS. I like the ideologies of Linux and what it stands for, but just can&amp;#39;t find myself to use it.&lt;/p&gt;
 
 &lt;h3&gt;Productivity&lt;/h3&gt;
 
-&lt;p&gt;I am big on the fact that tools should enhance productivity, not hinder it. Everyone is different and thus what works best for everyone is different. Currently for me it is the Mac. I don&amp;#39;t use Windows. It isn&amp;#39;t *nix based and causes me to waste time on pointless tedious things that no end-user should have to deal with. This blog post isn&amp;#39;t a rant about Windows however, it is one about me and my quest to find the ultimate Linux distro for me. I like the fact that on my Mac all of the tool bars are at the top. It is one less thing that I have to think about and remember on a per-application basis. Spotlight allows me to quickly launch apps without even touching a mouse, and tools like ShortCat allow me to use the mouse even less. The dock is convent for storing applications I frequently use and gets out of my way when I&amp;#39;m not using it. I like that. If I want to do something then I just do it. It&amp;#39;s precognitive.&lt;/p&gt;
+&lt;p&gt;I am big on the fact that tools should enhance productivity, not hinder it. Everyone is different and thus what works best for everyone is different. Currently for me it is the Mac. I don&amp;#39;t use Windows. It isn&amp;#39;t *nix based and causes me to waste time on pointless tedious things that no end-user should have to deal with. This blog post isn&amp;#39;t a rant about Windows however, it is one about me and my quest to find the ultimate Linux distro for me. I like the fact that on my Mac all of the tool bars are at the top. It is one less thing that I have to think about and remember on a per-application basis. Spotlight allows me to quickly launch apps without even touching a mouse, and tools like ShortCat allow me to use the mouse even less. The dock is convent for storing applications I frequently use and gets out of my way when I&amp;#39;m not using it. I like that. If I want to do something then I just do it.&lt;/p&gt;
 
 &lt;h3&gt;User Experience&lt;/h3&gt;
 
@@ -51,7 +111,7 @@
         <title>What IDE should I use?</title>
         <description>&lt;p class=&quot;intro&quot;&gt;What IDE should I use? Should I buy a Mac? What Linux distro/desktop are you using? I&#39;m sure you have all heard the same questions before.&lt;/p&gt;
 
-&lt;p&gt;As programmers we tend to get caught up in what tools we are using. &amp;quot;Oh he uses Eclipse? He must be a terrible coder. Who uses that?&amp;quot;. We&amp;#39;ve all heard it, seen it, or have even thought it. Even if you don&amp;#39;t know the thousands of key-combos and code generation features in IntelliJ Idea you will use it. Guess what? It doesn&amp;#39;t matter what IDE you use. You could use notepad on a computer running Windows 2000 What matters is the code, not the window it is in. You should use whatever tools you are most productive with, because ultimately tools are supposed to help you become more productive, not less. In this post I will list the tools that I use when coding and how they make me the most productive.&lt;/p&gt;
+&lt;p&gt;As programmers we tend to get caught up in what tools we are using. &amp;quot;Oh he uses Eclipse? He must be a terrible coder. Who uses that?&amp;quot;. We&amp;#39;ve all heard it, seen it, or have even thought it. Even if you don&amp;#39;t know the thousands of key-combos and code generation features in IntelliJ Idea you will use it. Guess what? It doesn&amp;#39;t matter what IDE you use. You could use notepad on a computer running Windows 2000! What matters is the code, not the window it is in. You should use whatever tools you are most productive with, because ultimately tools are supposed to help you become more productive, not less. In this post I will list the tools that I use when coding and how they make me the most productive.&lt;/p&gt;
 
 &lt;h3&gt;Atom&lt;/h3&gt;
 
@@ -94,13 +154,13 @@
         <title>Diversity In Tech</title>
         <description>&lt;p class=&quot;intro&quot;&gt;In tech these days a big focus has been on diversity.&lt;/p&gt;
 
-&lt;p&gt;If your company doesn&amp;#39;t have enough women, or african-americans working there than shame on you. There are many programs and grants to try and get women and african-americans into tech. Why? People say that these companies are discriminatory because they are consisted of dominatly white males. To make sure I looked up the definition and this is what I found.&lt;/p&gt;
+&lt;p&gt;If your company doesn&amp;#39;t have enough women, or african-americans working there than shame on you. There are many programs and grants to try and get women and african-americans into tech. Why? People say that these companies are discriminatory because they are consisted of dominantly white males. To make sure I looked up the definition and this is what I found.&lt;/p&gt;
 
 &lt;h3&gt;Discrimination&lt;/h3&gt;
 
 &lt;h4&gt;Treatment or consideration based on class or category rather than individual merit; partiality or prejudice&lt;/h4&gt;
 
-&lt;p&gt;If companies were hiring the majority of white males because they were white males than that would be discrimination. However, if they hired 10 of the best qualified workers that HAPPEN to be white males then that is not. I am tired of programs for women in tech. It discriminates against men. Are they choosing people for say a grant based on whether they are the most eager to learn or have the most challenges to overcome; or is it because they are women? (I don&amp;#39;t mean to pick on women. Any other group would suffice) They are choosing the individual because they are the category of the female sex. Read the definition above. You are looking at discrimination. If I started a company and were hiring 10 people then at the end of the day I would have 10 of the most qualified people. Not 10 women, men, african-americans, asians or otherwise. I would have 10 people. That is how I look at it.&lt;/p&gt;
+&lt;p&gt;If companies were hiring the majority of white males because they were white males than that would be discrimination. However, if they hired 10 of the best qualified workers that HAPPEN to be white males then that is not. I am tired of  many recent programs which try to increase the percentage of a particular ethnic/racial group in tech. Are they choosing people for say a grant based on whether they are the most eager to learn or have the most challenges to overcome; or is it because they are a women? (I don&amp;#39;t mean to pick on women. Any other group would suffice) They are choosing the individual because they are the category of the female sex. Read the definition above. You are looking at discrimination. When I start a company and we hire 10 people at the end of the day we would have 10 of the most qualified people. Not 10 women, men, african-americans, asians or otherwise. I would have 10 human beings. That is how I look at it.&lt;/p&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;In tech these days a big focus has been on diversity.&lt;/p&gt;
