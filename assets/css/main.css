@@ -1655,6 +1655,12 @@
 		font-style: italic;
 		margin: 0 0 2.25em 0;
 		padding: 0.5em 0 0.5em 2em;
+		font-size: 20pt;
+	}
+
+	#subquote {
+		font-weight: bold;
+		font-size: 18pt;
 	}
 
 	code {
@@ -1741,6 +1747,16 @@
 
 	form {
 		margin: 0 0 2.25em 0;
+	}
+
+	#copyleft {
+	  display:inline-block;
+	  transform: rotate(180deg);
+	}
+
+	#appIcon {
+		height: 85%;
+		width: 85%;
 	}
 
 	label {
