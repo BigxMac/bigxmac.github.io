@@ -141,11 +141,11 @@
 
 				<div class="row">
 
-					<div class="about-text"><p data-aos="fade-up" style="margin: 10px;" class="aos-init">
+					<div class="aos-init"><p data-aos="fade-up" class="aos-init">
 						During Febuary of 2016, I won PA District 11's <a href="https://www.congressionalappchallenge.us/2015-winners/">Congressional App Challenge</a> and later attended an event in Washington, DC where I met fellow students from other districts as well as members of congress and industry.
 					</p></div>
 
-					<div class="about-text"><p data-aos="fade-up" class="aos-init" style="margin: 10px;">
+					<div class="aos-init"><p data-aos="fade-up" class="aos-init">
 						In 2016 at <a href="https://en.wikipedia.org/wiki/FBLA-PBL">Future Business Leaders of America</a>, after placing 1st at regionals and 4th at states in the testing category "Introduction to Information Technology", I became the first student in my school's history to qualify for the national conference. I would later become elected PA Region 16 Vice President that December.
 					</p></div>
 
@@ -279,8 +279,9 @@
 			{
 				$('#title').css('font-size', '300%');
 			}
+
 			var host = "jaredstef.me";
-	 		if ((host == window.location.host) && (window.location.protocol != "https:"
+	 		if (host == window.location.host && window.location.protocol != 'https:')
 			{
 				window.location.protocol = "https";
 			}
