@@ -4,10 +4,12 @@
 	width: 76%;
 }
 
-body {
-	background-color: rgba(219, 225, 229, 0.5);
+html {
 	display: table-cell;
 	vertical-align: center;
+	background-color: rgba(219, 225, 229, 0.5);
+	width: auto;
+	height: auto;
 }
 
 h1 {
