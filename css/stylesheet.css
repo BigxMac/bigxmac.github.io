@@ -1,3 +1,33 @@
+@media (min-width: 320pt) {
+
+	p {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 270%;
+	}
+
+	#profile {
+		height: 175px;
+		width: 175px;
+		margin-top: 15%;
+	}
+
+	.social {
+		margin-top: 0;
+		padding-right: 3pt;
+		padding-left: 3pt;
+		height: auto;
+	}
+
+	div {
+		padding-top: 20pt;
+		width: 100%;
+	}
+}
+
+
 * {
 	margin-left: auto;
 	margin-right: auto;
@@ -51,7 +81,7 @@ a {
 .social img:hover {
 	opacity: 0.5;
 	filter: alpha(opacity=50);
-	
+
 }
 
 #linkedin {
@@ -62,33 +92,4 @@ a {
 #resume {
 	height: 38pt;
 	width: auto;
-}
-
-@media only screen and (max-width: 500px) {
-
-	p {
-		width: 100%;
-	}
-
-	h1 {
-		font-size: 270%;
-	}
-
-	#profile {
-		height: 175px;
-		width: 175px;
-		margin-top: 15%;
-	}
-
-	.social {
-		margin-top: 0;
-		padding-right: 3pt;
-		padding-left: 3pt;
-		height: auto;
-	}
-
-	div {
-		padding-top: 20pt;
-		width: 100%;
-	}
 }
