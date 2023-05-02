@@ -14,24 +14,49 @@
 	  		gtag('js', new Date());
 	  		gtag('config', 'UA-78538741-3');
 		</script>
-
+		<meta content='width=device-width, initial-scale=1' name='viewport'/>
 	</head>
-	<body>
-		<img id="profile" src="img/twitterProfile.jpg"/>
 
+	<body>
+		<img id="profile" src="img/profile.png"/>
 		<h1>Jared Stefanowicz</h1>
 
-		<p>
-			I&#39;m a self-taught software developer who has been coding since age 14. While working as a freelance iOS developer, I&#39;ve helped create and launch multiple apps on the App Store used by over 100,000 users. I&#39;ve given presentations on iOS development at the Wilkes-Barre Programming Community and collegiate hackathon <a href="https://owlhacks.com/" target="_blank">OwlHacks<a/>.
-		</p>
-		<p>
-				I am currently studying Statistical Science and Computer Science at <a href="https://en.wikipedia.org/wiki/Temple_University" target="_blank">Temple University</a> in Philadelphia where I also work as a undergraduate research assistant. I am interested in data science, machine learning, and software engineering. I'm currently available for freelance iOS development and other software development work.
-		</p>
+
 		<center>
 			<div>
-				<a class="social" href="https://twitter.com/jaredstef" target="_blank"><img src="img/twitter.jpg"/></a>
-				<a class="social" href="https://linkedin.com/in/jaredstef" target="_blank"><img src="img/linkedin.jpg" id ="linkedin"/></a>
+				<ul>
+					<a class="social" href="projects.html" target="_blank">
+						<img src="img/app.png" id ="linkedin"/>
+						Portfolio
+					</a>
+					<a class="social" href="https://linkedin.com/in/jaredstef" target="_blank">
+						<img src="img/linkedin.png" id ="linkedin"/>
+						LinkedIn
+					</a>
+					<a class="social" href="resume.pdf" target="_blank">
+						<img src="img/resume.png" id ="linkedin"/>
+						Resume
+					</a>
+				</ul>
 			</div>
 		</center>
+	
+		<p>
+			I&#39;m a self-taught software developer who has been coding for the past <span id="duration"></span> years. While working as a freelance iOS developer, I&#39;ve helped create and launch multiple apps on the App Store and have contributed to open source projects used by millions. I&#39;ve given presentations on iOS development at the Wilkes-Barre Programming Community and collegiate hackathon <a href="https://owlhacks.com/" target="_blank">OwlHacks<a/>.
+		</p>
+		<p>
+				I graduated in 2023 with Bachlors of Science double majoring in Computer Science and Statistics from <a href="https://en.wikipedia.org/wiki/Temple_University" target="_blank">Temple University</a> in Philadelphia where I also worked as a research assistant. I am interested in data science, UI/UX design, and software engineering. I'm currently available for freelance iOS development and other software development work.
+		</p>
+
 	</body>
+	
+	<footer>
+		<center><p>©<span id="cr"></span> Jared Stefanowicz</p></center>
+	</footer>
+
+		<script>
+			document.getElementById("duration").innerHTML = new Date().getFullYear() - 2013;
+			document.getElementById("cr").innerHTML = new Date().getFullYear();
+		</script>
+
 </html>
