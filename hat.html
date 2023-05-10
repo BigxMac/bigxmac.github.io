@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jared Stefanowicz | Hat Ads</title>
+		<link rel="stylesheet" href="css/stylesheet-projects.css">
+		<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+
+		<!-- Yes I wrote my own HTML/CSS :) -->
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-78538741-3"></script>
+
+		<meta content='width=device-width, initial-scale=1' name='viewport'/>
+	</head>
+
+	<body>
+        
+		<script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-78538741-3');
+      </script>
+      <script type="module">
+
+          // Import the functions you need from the SDKs you need
+          import { initializeApp } from "https://www.gstatic.com/firebasejs/9.21.0/firebase-app.js";
+          import { getDatabase, increment, ref, update, get, child} from "https://www.gstatic.com/firebasejs/9.21.0/firebase-database.js";
+
+          // TODO: Add SDKs for Firebase products that you want to use
+          // https://firebase.google.com/docs/web/setup#available-libraries
+        
+          // Your web app's Firebase configuration
+          const firebaseConfig = {
+            apiKey: "AIzaSyBErRurrTcVHd6jQTjGbCYI7qPNkM0CrWI",
+            authDomain: "hatads-8e663.firebaseapp.com",
+            projectId: "hatads-8e663",
+            storageBucket: "hatads-8e663.appspot.com",
+            messagingSenderId: "1036603646432",
+            appId: "1:1036603646432:web:0132889acc0f162292cb85"
+          };
+        
+          // Initialize Firebase
+          const app = initializeApp(firebaseConfig);
+          const db = ref(getDatabase(app), "Views/");
+        
+
+          update(db, {'count': increment(1)});
+
+          get(db).then((snapshot) => {
+            if(snapshot.exists()) {
+                const n = 100000*(1-(snapshot.val()['count']/16666667));
+                const rounded = Math.round((n + Number.EPSILON) * 100) / 100;
+                const formattedNumber = n.toLocaleString("en-US", { 
+                            style: "currency", 
+                            currency: "USD"
+                });
+                document.getElementById("amount").innerHTML = formattedNumber;
+            }
+          });
+
+      </script>
+        <h3><a href="index.html">⇦ Home</a></h3>
+        <h1 id="amount">
+            $100,000
+        </h1>
+
+        <h3>If you're seeing this, you scanned by graduation cap...</h3>
+        <p>
+            I have amassed roughly $100,000 in student loan debt throughout my 5 years at Temple University. Each time you view this site, I earn revenue from the ads placed on this page which reduces my debt amount. If you wish to help, you can refresh the page, click the ads, vemno me (@JaredStef), or share this page with friends! If no ads are showing be sure to turn off your ad blocker :&rpar; It will take an estimated 16.67 million views to earn $100,000.
+        </p>
+
+        <p>
+            For employers, my portfolio, LinkedIn and resume are below:
+        </p>
+
+        <center>
+			<div>
+				<ul>
+					<a class="social" href="projects.html">
+						<img src="img/app.png" id ="linkedin"/>
+						Portfolio
+					</a>
+					<a class="social" href="https://linkedin.com/in/jaredstef" target="_blank">
+						<img src="img/linkedin.png" id ="linkedin"/>
+						LinkedIn
+					</a>
+					<a class="social" href="resume.pdf" target="_blank">
+						<img src="img/resume.png" id ="linkedin"/>
+						Resume
+					</a>
+				</ul>
+			</div>
+		</center>
+
+
+
+	</body>
+
+	<footer>
+		<center><p>©<span id="cr"></span> Jared Stefanowicz</p></center>
+	</footer>
+	<script>
+		document.getElementById("cr").innerHTML = new Date().getFullYear();
+	</script>
+
+    <h3>Ads Below</h3>
+
+    <div id="ads">
+              <!-- 1 -->
+              <script type="text/javascript">
+                atOptions = {
+                    'key' : 'fd74bc854156e6ed429993a7bd01a851',
+                    'format' : 'iframe',
+                    'height' : 250,
+                    'width' : 300,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/fd74bc854156e6ed429993a7bd01a851/invoke.js"></scr' + 'ipt>');
+            </script>
+            <!-- 2 -->
+            <script type="text/javascript">
+                atOptions = {
+                    'key' : '875b6726600ea951a7ed9e812f281c7b',
+                    'format' : 'iframe',
+                    'height' : 90,
+                    'width' : 728,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/875b6726600ea951a7ed9e812f281c7b/invoke.js"></scr' + 'ipt>');
+            </script>
+            <!-- 3 -->
+            <script type="text/javascript">
+                atOptions = {
+                    'key' : '7cee1c8402e4e82b210f87f1f32d3418',
+                    'format' : 'iframe',
+                    'height' : 600,
+                    'width' : 160,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/7cee1c8402e4e82b210f87f1f32d3418/invoke.js"></scr' + 'ipt>');
+            </script>
+            <!-- 4 -->
+            <script type="text/javascript">
+                atOptions = {
+                    'key' : 'e7c7e933e01488d153fe18c5c0fcf225',
+                    'format' : 'iframe',
+                    'height' : 300,
+                    'width' : 160,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/e7c7e933e01488d153fe18c5c0fcf225/invoke.js"></scr' + 'ipt>');
+            </script>
+            <!-- 5 -->
+            <script type="text/javascript">
+                atOptions = {
+                    'key' : '444a3086845a87d3acae7b7de7d8ac32',
+                    'format' : 'iframe',
+                    'height' : 60,
+                    'width' : 468,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/444a3086845a87d3acae7b7de7d8ac32/invoke.js"></scr' + 'ipt>');
+            </script>
+            <!-- 6 -->
+            <script type="text/javascript">
+                atOptions = {
+                    'key' : 'cc6725c26fdb15b8509381d18e03cf90',
+                    'format' : 'iframe',
+                    'height' : 50,
+                    'width' : 320,
+                    'params' : {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/cc6725c26fdb15b8509381d18e03cf90/invoke.js"></scr' + 'ipt>');
+            </script>
+    </div>
+
+</html>
