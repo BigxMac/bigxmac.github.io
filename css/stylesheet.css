@@ -208,6 +208,10 @@ footer {
   .centered-section img:not(.app-icon) {
     width: 50%;
   }
-}
 
-/*# sourceMappingURL=stylesheet.css.map */
+  #oso-section {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
